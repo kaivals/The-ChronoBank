@@ -26,7 +26,7 @@ ChronoBank is built using a microservices architecture, with each service respon
 
 | **Frontend** | **Backend** | **Tools** |
 | --- | --- | --- |
-| HTML, CSS, JavaScript | Node.js, Express.js, MongoDB | Flask, Bootstrap, React |
+| HTML, CSS, JavaScript |  | Flask, Bootstrap|
 
 **Project Structure:**
 
